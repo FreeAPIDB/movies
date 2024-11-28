@@ -1,0 +1,126 @@
+{
+  "year": 2011,
+  "movies": [
+    {
+      "title": "Zindagi Na Milegi Dobara",
+      "release_date": "2011-07-15",
+      "director": "Zoya Akhtar",
+      "cast": [
+        "Hrithik Roshan",
+        "Farhan Akhtar",
+        "Abhay Deol",
+        "Katrina Kaif",
+        "Kalki Koechlin"
+      ],
+      "genre": "Comedy, Drama",
+      "box_office": "₹1.91 billion"
+    },
+    {
+      "title": "Bodyguard",
+      "release_date": "2011-08-31",
+      "director": "Siddique",
+      "cast": [
+        "Salman Khan",
+        "Kareena Kapoor",
+        "Raj Babbar"
+      ],
+      "genre": "Action, Comedy, Romance",
+      "box_office": "₹2.46 billion"
+    },
+    {
+      "title": "Ra.One",
+      "release_date": "2011-10-26",
+      "director": "Anubhav Sinha",
+      "cast": [
+        "Shah Rukh Khan",
+        "Kareena Kapoor",
+        "Arjun Rampal"
+      ],
+      "genre": "Action, Sci-Fi",
+      "box_office": "₹1.12 billion"
+    },
+    {
+      "title": "Singham",
+      "release_date": "2011-07-22",
+      "director": "Rohit Shetty",
+      "cast": [
+        "Ajay Devgn",
+        "Kajal Aggarwal",
+        "Shreyas Talpade"
+      ],
+      "genre": "Action, Drama",
+      "box_office": "₹1.10 billion"
+    },
+    {
+      "title": "Mausam",
+      "release_date": "2011-09-23",
+      "director": "Pankaj Kapur",
+      "cast": [
+        "Shahid Kapoor",
+        "Sonam Kapoor"
+      ],
+      "genre": "Romantic Drama",
+      "box_office": "₹700 million"
+    },
+    {
+      "title": "Delhi Belly",
+      "release_date": "2011-07-01",
+      "director": "Abhinay Deo",
+      "cast": [
+        "Imran Khan",
+        "Kunaal Roy Kapur",
+        "Vir Das",
+        "Shenaz Treasurywala"
+      ],
+      "genre": "Comedy, Drama",
+      "box_office": "₹930 million"
+    },
+    {
+      "title": " Rockstar",
+      "release_date": "2011-11-11",
+      "director": "Imtiaz Ali",
+      "cast": [
+        "Ranbir Kapoor",
+        "Nargis Fakhri"
+      ],
+      "genre": "Romance, Drama, Music",
+      "box_office": "₹1.25 billion"
+    },
+    {
+      "title": "Chillar Party",
+      "release_date": "2011-07-08",
+      "director": "Vikas Bahl",
+      "cast": [
+        "Raj Zutshi",
+        "Aamir Bashir",
+        "Suresh Menon"
+      ],
+      "genre": "Comedy, Drama, Family",
+      "box_office": "₹40 crore"
+    },
+    {
+      "title": "The Dirty Picture",
+      "release_date": "2011-12-02",
+      "director": "Milan Luthria",
+      "cast": [
+        "Vidya Balan",
+        "Emraan Hashmi",
+        "Naseeruddin Shah"
+      ],
+      "genre": "Biography, Drama, Music",
+      "box_office": "₹1.31 billion"
+    },
+    {
+      "title": "Don 2",
+      "release_date": "2011-12-23",
+      "director": "Farhan Akhtar",
+      "cast": [
+        "Shah Rukh Khan",
+        "Priyanka Chopra",
+        "Boman Irani"
+      ],
+      "genre": "Action, Crime, Thriller",
+      "box_office": "₹2.06 billion"
+    }
+  ]
+}
