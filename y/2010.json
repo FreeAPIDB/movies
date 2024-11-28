@@ -1,0 +1,114 @@
+{
+  "year": 2010,
+  "movies": [
+    {
+      "title": "3 Idiots",
+      "release_date": "2009-12-25",
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Aamir Khan",
+        "R. Madhavan",
+        "Sharman Joshi",
+        "Kareena Kapoor"
+      ],
+      "genre": "Comedy, Drama",
+      "box_office": "₹395 crore"
+    },
+    {
+      "title": "Dabangg",
+      "release_date": "2010-09-10",
+      "director": "Abhinav Kashyap",
+      "cast": [
+        "Salman Khan",
+        "Sonakshi Sinha",
+        "Arbaaz Khan",
+        "Vinod Khanna"
+      ],
+      "genre": "Action, Drama",
+      "box_office": "₹2.15 billion"
+    },
+    {
+      "title": "My Name is Khan",
+      "release_date": "2010-02-12",
+      "director": "Karan Johar",
+      "cast": [
+        "Shah Rukh Khan",
+        "Kajol",
+        "Jimmy Sheirgill"
+      ],
+      "genre": "Drama, Romance",
+      "box_office": "₹2.03 billion"
+    },
+    {
+      "title": "Raajneeti",
+      "release_date": "2010-06-04",
+      "director": "Prakash Jha",
+      "cast": [
+        "Katrina Kaif",
+        "Ajay Devgn",
+        "Ranbir Kapoor",
+        "Nana Patekar"
+      ],
+      "genre": "Political Drama",
+      "box_office": "₹1.10 billion"
+    },
+    {
+      "title": "Tees Maar Khan",
+      "release_date": "2010-12-24",
+      "director": "Farah Khan",
+      "cast": [
+        "Akshay Kumar",
+        "Katrina Kaif",
+        "Akshaye Khanna"
+      ],
+      "genre": "Comedy, Action",
+      "box_office": "₹1.22 billion"
+    },
+    {
+      "title": "Anjaana Anjaani",
+      "release_date": "2010-10-01",
+      "director": "Siddharth Anand",
+      "cast": [
+        "Ranbir Kapoor",
+        "Priyanka Chopra"
+      ],
+      "genre": "Romantic Drama",
+      "box_office": "₹755 million"
+    },
+    {
+      "title": "Housefull",
+      "release_date": "2010-04-30",
+      "director": "Sajid Khan",
+      "cast": [
+        "Akshay Kumar",
+        "Deepika Padukone",
+        "Lara Dutta",
+        "Arjun Rampal"
+      ],
+      "genre": "Comedy",
+      "box_office": "₹1.83 billion"
+    },
+    {
+      "title": "Karthik Calling Karthik",
+      "release_date": "2010-02-26",
+      "director": "Vijay Lalwani",
+      "cast": [
+        "Farhan Akhtar",
+        "Deepika Padukone"
+      ],
+      "genre": "Psychological Thriller",
+      "box_office": "₹48 crore"
+    },
+    {
+      "title": "Khelein Hum Jee Jaan Sey",
+      "release_date": "2010-12-03",
+      "director": "Ashutosh Gowariker",
+      "cast": [
+        "Abhishek Bachchan",
+        "Deepika Padukone"
+      ],
+      "genre": "Historical, Drama",
+      "box_office": "₹33 crore"
+    }
+  ]
+}
